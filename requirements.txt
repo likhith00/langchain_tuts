@@ -1,8 +1,14 @@
-langchain
+langchain==0.1.6
 langchain-community
 transformers
 beautifulsoup4
 faiss-cpu
 huggingface-hub
 sentence-transformers
-
+google-search-results
+numexpr
+langchainhub
+wikipedia
+bitsandbytes
+langchain-cli
+fireworks-ai
