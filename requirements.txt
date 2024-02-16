@@ -12,3 +12,11 @@ wikipedia
 bitsandbytes
 langchain-cli
 fireworks-ai
+langserve[all]
+pydantic==1.10.13
+langchain[docarray]
+pandas
+chromadb
+peft
+datasets
+evaluate
